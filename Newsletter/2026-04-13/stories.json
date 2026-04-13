@@ -1,0 +1,53 @@
+{
+  "headline": "INNOVATING THE FRAME: THE AI PRODUCTION REVOLUTION",
+  "subtitle": "AI Video Production News",
+  "stories": [
+    {
+      "title": "The Newsroom Stops Thinking in Rundowns",
+      "summary": "Cuez is using NAB 2026 to pitch a newsroom model built around stories rather than bulletins. Its new Storydesk, automation blocks and open AI agent framework let teams repurpose editorial assets across TV, digital and social without copy-paste chaos.",
+      "url": "https://www.broadcastsystemsintegration.news/cuez-brings-four-new-innovations-to-nab-2026-from-story-centric-newsroom-to-open-ai-agent-framework/",
+      "alt": "AI-powered story-centric newsroom",
+      "image": "/data/.openclaw/media/tool-image-generation/newsletter-2026-04-13-story-1---97376932-b006-4792-91f0-e15956010a27.png",
+      "image_url": "https://raw.githubusercontent.com/nickralph-DREAM/Newsletter_ed_0001/main/Newsletter/2026-04-13/story-1.png"
+    },
+    {
+      "title": "Dalet's Bet on Agentic Media Ops",
+      "summary": "Dalet's new Dalia layer wraps its media stack in a natural-language interface, while Flex and Pyramid push semantic search, browser-based collaboration and Adobe-friendly workflows. It is a clear sign that AI is becoming the control surface for enterprise media operations.",
+      "url": "https://www.broadcastsystemsintegration.news/dalet-showcases-dalia-agentic-ai-and-end-to-end-media-workflows-at-nab-show-2026/",
+      "alt": "Agentic AI media operations dashboard",
+      "image": "/data/.openclaw/media/tool-image-generation/newsletter-2026-04-13-story-2---1e697d3f-31e7-49eb-b0d7-06fe00aa1592.png",
+      "image_url": "https://raw.githubusercontent.com/nickralph-DREAM/Newsletter_ed_0001/main/Newsletter/2026-04-13/story-2.png"
+    },
+    {
+      "title": "Broadcast-Quality Town Halls, No Full Crew Required",
+      "summary": "QuickLink's StudioPro Town Hall aims to give lightly staffed organisations broadcast-grade live coverage by automating switching, active-speaker tracking and graphics. That makes AI feel less like a toy and more like a genuine crew multiplier for civic, corporate and education events.",
+      "url": "https://www.broadcastbeat.com/quicklink-launches-studiopro-town-hall-at-2026-nab-show/",
+      "alt": "AI-assisted town hall live production",
+      "image": "/data/.openclaw/media/tool-image-generation/newsletter-2026-04-13-story-3---d5b6970a-c530-490e-9d81-01466873e8e9.png",
+      "image_url": "https://raw.githubusercontent.com/nickralph-DREAM/Newsletter_ed_0001/main/Newsletter/2026-04-13/story-3.png"
+    },
+    {
+      "title": "Panasonic Pushes AI Into Live Sports and Podcast Workflows",
+      "summary": "Panasonic's NAB setup leans into the reality that live streaming, podcasting and venue production now need to look premium on leaner crews. Its pitch combines AI-assisted PTZ and IP workflows with LED-heavy sports and event production.",
+      "url": "https://news.panasonic.com/global/press/en260409-3",
+      "alt": "AI-driven PTZ sports and podcast production",
+      "image": "/data/.openclaw/media/tool-image-generation/newsletter-2026-04-13-story-4---442474f4-e800-415b-9cdb-7d80124fcf26.png",
+      "image_url": "https://raw.githubusercontent.com/nickralph-DREAM/Newsletter_ed_0001/main/Newsletter/2026-04-13/story-4.png"
+    },
+    {
+      "title": "Voice-Controlled Live Production Is Here",
+      "summary": "Action Phrase takes a delightfully direct approach to production automation: speak a command and trigger cameras, graphics, layouts or scripts hands-free. It is early, but it points to a future where live direction becomes faster, more accessible and less tied to traditional control surfaces.",
+      "url": "https://tow.com/2026/04/03/action-phrase-voice-control-for-live-production/",
+      "alt": "Voice-controlled live production interface",
+      "image": "/data/.openclaw/media/tool-image-generation/newsletter-2026-04-13-story-5---1de7aff4-4034-44aa-a1c9-43bd3f253fc5.png",
+      "image_url": "https://raw.githubusercontent.com/nickralph-DREAM/Newsletter_ed_0001/main/Newsletter/2026-04-13/story-5.png"
+    }
+  ],
+  "published": {
+    "owner": "nickralph-DREAM",
+    "repo": "Newsletter_ed_0001",
+    "branch": "main",
+    "folder": "Newsletter/2026-04-13",
+    "html_url": "https://raw.githubusercontent.com/nickralph-DREAM/Newsletter_ed_0001/main/Newsletter/2026-04-13/newsletter.html"
+  }
+}
